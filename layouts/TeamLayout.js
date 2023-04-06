@@ -7,7 +7,7 @@ export default function AuthorLayout({ children, frontMatter }) {
 
   return (
     <>
-      <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
+      <PageSEO title={`About The Team`} description={`About The Team`} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pt-6 pb-8 md:space-y-5"></div>
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
