@@ -7,4 +7,4 @@ twitter: https://twitter.com/sparrowhawk
 linkedin: https://www.linkedin.com/sparrowhawk
 ---
 
-Dyllon Mulindiis the Founder of TheSafeHouse and a Psychologist by proffesion.
+Dyllon Mulindi is the Founder of TheSafeHouse and a Psychologist by proffesion.
